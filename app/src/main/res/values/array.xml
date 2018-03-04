@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>北京</item>
+        <item>莫斯科</item>
+        <item>柏林</item>
+        <item>基辅</item>
+        <item>明斯克</item>
+        <item>纽约</item>
+    </string-array>
+</resources>
